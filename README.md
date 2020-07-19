@@ -11,7 +11,7 @@
     <li>GraphGL</li>
     <li>Deno</li>
 </ul>
-<h3>My tinkering area:</h3>
+<h4>My tinkering area:</h4>
 <ul>
     <li><a href="https://repl.it/@adnanniaz">Repl.it </a>Where I practice and collaborate</li>
     <li><a href="https://www.sololearn.com/Profile/383429">SoloLearn </a>Where I enjoy learning small concepts</li>
