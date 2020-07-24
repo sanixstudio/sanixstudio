@@ -20,7 +20,7 @@
 <p>
     <a href="https://www.sanistudio.online">Website</a>&nbsp;&nbsp;|
     <a href="https://drive.google.com/open?id=1Kd3K2eCeDBLFDuSfHqVtPW3C3ACL7ueC">Resume</a>&nbsp;&nbsp;|
-    <a href="adnanniaz77@yahoo.com">Email</a>&nbsp;&nbsp;|
+    <a href="mailto:adnanniaz77@yahoo.com">Email</a>&nbsp;&nbsp;|
     <a href="https://www.linkedin.com/in/adnanniaz77/">LinkedIn</a>
 </p>&nbsp;
 </p>
