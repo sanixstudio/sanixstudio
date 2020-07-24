@@ -14,13 +14,13 @@
 
 <h4>My tinkering area:</h4>
 <ul>
-    <li><a href="https://repl.it/@adnanniaz">Repl.it </a>Where I practice and collaborate</li>
-    <li><a href="https://www.sololearn.com/Profile/383429">SoloLearn </a>Where I enjoy learning small concepts</li>
+    <li>My practice and code collaboration dojo <a href="https://repl.it/@adnanniaz">Repl.it </a></li>
+    <li>Learn, Code and Challenge <a href="https://www.sololearn.com/Profile/383429">SoloLearn </a></li>
 </ul>
 <p>
-    <img src="./images/website.png" style="width: 16px;" alt="">&nbsp;&nbsp;&nbsp;Website&nbsp;&nbsp;|&nbsp;&nbsp;
-    <img src="./images/resume.png" style="width: 16px;" alt="">&nbsp;&nbsp;&nbsp;Resume&nbsp;&nbsp;|&nbsp;&nbsp;
-    <img src="./images/email.png" style="width: 16px;" alt="">&nbsp;&nbsp;&nbsp;Email&nbsp;&nbsp;|&nbsp;&nbsp;
-    <img src="./images/linkedIn.png" style="width: 16px;" alt="">&nbsp;&nbsp;&nbsp;Linked&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://www.sanistudio.online">Website</a>&nbsp;&nbsp;|
+    <a href="https://drive.google.com/open?id=1Kd3K2eCeDBLFDuSfHqVtPW3C3ACL7ueC">Resume</a>&nbsp;&nbsp;|
+    <a href="adnanniaz77@yahoo.com">Email</a>&nbsp;&nbsp;|
+    <a href="https://www.linkedin.com/in/adnanniaz77/">LinkedIn</a>
 </p>&nbsp;
 </p>
