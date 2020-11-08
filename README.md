@@ -1,5 +1,3 @@
-<pre>
-<code>
 <h1>Adnan Niaz</h1>
 <h2> 🛠 Full-stack web developer + 🎨 UI/UX designer</h2>
 <p>
@@ -30,5 +28,3 @@
     <a href="https://www.linkedin.com/in/adnanniaz77/"> 🔗 LinkedIn</a>
 </p>&nbsp;
 </p>
-</code>
-</pre>
