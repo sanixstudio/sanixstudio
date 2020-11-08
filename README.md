@@ -14,7 +14,6 @@
         <li>GraphGL</li>
         <li>Deno</li>
     </ul>
-
     <h4>My tinkering area:</h4>
     <ul>
         <li><img src="images/sololearn.png"> <a href="https://repl.it/@adnanniaz">Repl.it: </a> Practice and code
