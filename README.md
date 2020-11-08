@@ -1,5 +1,5 @@
+<pre>
 <code>
-    <pre>
 <h1>Adnan Niaz</h1>
 <h2> 🛠 Full-stack web developer + 🎨 UI/UX designer</h2>
 <p>
@@ -29,6 +29,6 @@
     <a href="mailto:adnanniaz77@yahoo.com"> ✉ Email</a>&nbsp;&nbsp;|
     <a href="https://www.linkedin.com/in/adnanniaz77/"> 🔗 LinkedIn</a>
 </p>&nbsp;
-</p>   
-</pre>
+</p>
 </code>
+</pre>
