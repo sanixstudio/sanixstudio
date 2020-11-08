@@ -20,11 +20,9 @@
         <li><img src="images/sololearn.png"> <a href="https://repl.it/@adnanniaz">Repl.it: </a> Practice and code
             collaboration dojo</li>
         <li><img src="images/replit.png"> <a href="https://www.sololearn.com/Profile/383429">SoloLearn: </a> Learn, Code
-            and
-            Challenge</li>
+            and Challenge</li>
         <li><img src="images/hacker-rank.png"> <a href="https://www.hackerrank.com/adnanniaz77">HackerRank: </a>
-            Practice my
-            Coding Skills and Solving code challenges</li>
+            Practice my Coding Skills and Solving code challenges</li>
     </ul>
     <p>
         <a href="https://www.sanistudio.online"> 💻 Website</a>&nbsp;&nbsp;|
@@ -33,4 +31,6 @@
         <a href="https://www.linkedin.com/in/adnanniaz77/"> 🔗 LinkedIn</a>
     </p>&nbsp;
     </p>
-</body>
+</body>dIn</a>
+</p>&nbsp;
+</p>
