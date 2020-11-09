@@ -13,11 +13,11 @@
     <li>Deno</li>
 </ul>
 
-<h4>My tinkering area:</h4>
+<h4>Places where I Learn, Code, participate and Complete Challenges:</h4>
 <ul>
-    <li><img src="images/sololearn.png"> <a href="https://repl.it/@adnanniaz">Repl.it: </a><em> Practice and code
+    <li><img src="images/replit.png"> <a href="https://repl.it/@adnanniaz">Repl.it: </a><em> Practice and code
         collaboration dojo</em></li>
-    <li><img src="images/replit.png"> <a href="https://www.sololearn.com/Profile/383429">SoloLearn: </a><em> Learn, Code and
+    <li><img src="images/sololearn.png"> <a href="https://www.sololearn.com/Profile/383429">SoloLearn: </a><em> Learn, Code and
         Challenge</em></li>
     <li><img src="images/hacker-rank.png"> <a href="https://www.hackerrank.com/adnanniaz77">HackerRank: </a><em> Practise my
         Coding Skills and Solving code challenges</em></li>
