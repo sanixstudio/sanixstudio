@@ -1,5 +1,5 @@
 <h1>Adnan Niaz</h1>
-<img src="images/banner.png">
+<img src="images/banner2.png">
 <h2> 🛠 Full-stack web developer + 🎨 UI/UX designer</h2>
 <p>
     Technology adaptable and innovation-oriented software engineer with a passion for solving problems and learning new
