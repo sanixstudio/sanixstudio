@@ -15,12 +15,12 @@
 
 <h4>Places where I Learn, Code, participate and Complete Challenges:</h4>
 <ul>
-    <li><img src="images/replit.png"> <a href="https://repl.it/@adnanniaz">Repl.it: </a><em> Practice and code
-        collaboration dojo</em></li>
-    <li><img src="images/sololearn.png"> <a href="https://www.sololearn.com/Profile/383429">SoloLearn: </a><em> Learn, Code and
-        Challenge</em></li>
-    <li><img src="images/hacker-rank.png"> <a href="https://www.hackerrank.com/adnanniaz77">HackerRank: </a><em> Practise my
-        Coding Skills and Solving code challenges</em></li>
+    <li><img src="images/replit.png"> <a href="https://repl.it/@adnanniaz">Repl.it: </a> Practice and code
+        collaboration dojo</li>
+    <li><img src="images/sololearn.png"> <a href="https://www.sololearn.com/Profile/383429">SoloLearn: </a> Learn, Code and
+        Challenge</li>
+    <li><img src="images/hacker-rank.png"> <a href="https://www.hackerrank.com/adnanniaz77">HackerRank: </a> Practise my
+        Coding Skills and Solving code challenges</li>
 </ul>
 <p>
     <a href="https://www.sanistudio.online"> 💻 Website</a>&nbsp;&nbsp;|
