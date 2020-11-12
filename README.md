@@ -1,6 +1,6 @@
 <h1>Adnan Niaz</h1>
 <img src="images/banner2.png">
-<h2> 🛠 Full-stack web developer + 🎨 UI/UX designer</h2>
+<h2> 🛠 Full-stack web developer + 🎨 UI/UX developer</h2>
 <p>
     Technology adaptable and innovation-oriented software engineer with a passion for solving problems and learning new
     technologies. Experienced in HTML, CSS, Bootstrap, JavaScript, jQuery and specialized in the React/Redux front-end
