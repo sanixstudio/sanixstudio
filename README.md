@@ -19,7 +19,7 @@
         collaboration dojo</li>
     <li><img src="images/sololearn.png"> <a href="https://www.sololearn.com/Profile/383429">SoloLearn: </a> Learn, Code and
         Challenge</li>
-    <li><img src="images/hacker-rank.png"> <a href="https://www.hackerrank.com/adnanniaz77">HackerRank: </a> Practise my
+    <li><img src="images/hacker-rank.png"> <a href="https://www.hackerrank.com/adnan_niaz71">HackerRank: </a> Practise my
         Coding Skills and Solving code challenges</li>
 </ul>
 <p>
