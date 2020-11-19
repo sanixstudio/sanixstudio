@@ -14,12 +14,12 @@ and Node back-end environment.
 
 #### Places where I Learn, Code, participate and Complete Challenges:
 
- - ![replit](images/replit.png) (https://repl.it/@adnanniaz) Repl.it: Practice and code collaboration dojo
- - ![sololearn](images/sololearn.png) https://www.sololearn.com/Profile/383429 SoloLearn: Learn, Code and Challenge
- - ![hackerrank](images/hacker-rank.png) https://www.hackerrank.com/adnan_niaz71 HackerRank: Practise my Coding Skills and Solving code challenges
+ - ![replit](images/replit.png) Repl.it(https://repl.it/@adnanniaz): Practice and code collaboration dojo
+ - ![sololearn](images/sololearn.png) (https://www.sololearn.com/Profile/383429) SoloLearn: Learn, Code and Challenge
+ - ![hackerrank](images/hacker-rank.png) (https://www.hackerrank.com/adnan_niaz71) HackerRank: Practise my Coding Skills and Solving code challenges
 
 ### Get in Touch
-[website](https://www.sanistudio.online) 💻 Website |
-[resume](https://drive.google.com/open?id=1Kd3K2eCeDBLFDuSfHqVtPW3C3ACL7ueC) 📄 Resume |
-[email](mailto:adnanniaz77@yahoo.com) ✉ Email |
-[linkedin](https://www.linkedin.com/in/adnanniaz77/) 🔗 LinkedIn
+[website](https://www.sanistudio.online) 💻 |
+[resume](https://drive.google.com/open?id=1Kd3K2eCeDBLFDuSfHqVtPW3C3ACL7ueC) 📄 |
+[email](mailto:adnanniaz77@yahoo.com) ✉ |
+[linkedin](https://www.linkedin.com/in/adnanniaz77/) 🔗
