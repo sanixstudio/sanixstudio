@@ -9,9 +9,11 @@ and Node back-end environment.
 ### Tools / Technologies:
  1. HTML
  2. CSS3 / SCSS
- 3. JavaScript / ECMAscript / JSX
- 4. Bootstrap / Materialize
+ 3. JavaScript + ECMAscript + JSX
+ 4. Bootstrap + Materialize
  5. REACT
+ 6. Node
+ 7. Mongoose + MySql
  
  ### Skilled-in
   - Website development
@@ -32,7 +34,7 @@ and Node back-end environment.
  - ![hackerrank](images/hacker-rank.png) [HackerRank](https://www.hackerrank.com/adnan_niaz71): Practise my Coding Skills and Solving code challenges
 
 ### Get in Touch
-[website](https://www.sanistudio.online) 💻 |
-[resume](https://drive.google.com/open?id=1Kd3K2eCeDBLFDuSfHqVtPW3C3ACL7ueC) 📄 |
-[email](mailto:adnanniaz77@yahoo.com) ✉ |
-[linkedin](https://www.linkedin.com/in/adnanniaz77/) 🔗
+[Website](https://www.sanistudio.online) 💻 |
+[Resume](https://drive.google.com/open?id=1Kd3K2eCeDBLFDuSfHqVtPW3C3ACL7ueC) 📄 |
+[Email](mailto:adnanniaz77@yahoo.com) ✉ |
+[Linkedin](https://www.linkedin.com/in/adnanniaz77/) 🔗
