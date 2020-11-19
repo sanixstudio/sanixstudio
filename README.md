@@ -14,9 +14,9 @@ and Node back-end environment.
 
 #### Places where I Learn, Code, participate and Complete Challenges:
 
- - ![replit](images/replit.png) [Repl.it] (https://repl.it/@adnanniaz): Practice and code collaboration dojo
- - ![sololearn](images/sololearn.png) [SoloLearn] (https://www.sololearn.com/Profile/383429): Learn, Code and Challenge
- - ![hackerrank](images/hacker-rank.png) [HackerRank] (https://www.hackerrank.com/adnan_niaz71): Practise my Coding Skills and Solving code challenges
+ - ![replit](images/replit.png) [Repl.it](https://repl.it/@adnanniaz): Practice and code collaboration dojo
+ - ![sololearn](images/sololearn.png) [SoloLearn](https://www.sololearn.com/Profile/383429): Learn, Code and Challenge
+ - ![hackerrank](images/hacker-rank.png) [HackerRank](https://www.hackerrank.com/adnan_niaz71): Practise my Coding Skills and Solving code challenges
 
 ### Get in Touch
 [website](https://www.sanistudio.online) 💻 |
