@@ -6,6 +6,19 @@ Technology adaptable and innovation-oriented software engineer with a passion fo
 technologies. Experienced in HTML, CSS, Bootstrap, JavaScript, jQuery and specialized in the React/Redux front-end
 and Node back-end environment.
 
+### Tools / Technologies:
+ 1. HTML
+ 2. CSS3 / SCSS
+ 3. JavaScript / ECMAscript / JSX
+ 4. Bootstrap / Materialize
+ 5. REACT
+ 
+ ### Skilled-in
+  - Website development
+  - Responsiveness
+  - API Integration
+  - Database and CRUD
+
 ### Currently Learning:
 
  - REACT Advanced
