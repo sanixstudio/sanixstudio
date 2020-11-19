@@ -21,12 +21,6 @@ and Node back-end environment.
   - API Integration
   - Database and CRUD
 
-### Currently Learning:
-
- - REACT Advanced
- - GraphGL
- - Deno
-
 #### Places where I Learn, Code, participate and Complete Challenges:
 
  - ![replit](images/replit.png) [Repl.it](https://repl.it/@adnanniaz): Practice and code collaboration dojo
