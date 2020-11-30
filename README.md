@@ -1,5 +1,4 @@
 # Adnan Niaz
-![img](images/banner2.png)
 
 ## 🛠 Full-stack web developer + 🎨 UI developer
 Technology adaptable and innovation-oriented software engineer with a passion for solving problems and learning new
