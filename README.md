@@ -1,9 +1,7 @@
 # Adnan Niaz
 
 ## 🛠 Full-stack web developer + 🎨 UI developer
-Technology adaptable and innovation-oriented software engineer with a passion for solving problems and learning new
-technologies. Experienced in HTML, CSS, Bootstrap, JavaScript, jQuery and specialized in the React/Redux front-end
-and Node back-end environment.
+I am a MERN stack web developer who loves creating and developing UI/UX components. I enjoy working on singly single-page websites and landing pages. Currently my focus is on the front-end while strengthening back-end development to create more useful, user friendly, and good looking apps.
 
 ### Tools / Technologies:
  1. HTML
