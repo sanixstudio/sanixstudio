@@ -1,7 +1,7 @@
 # Adnan Niaz
 
 ## 🛠 Full-stack web developer + 🎨 UI developer
-I am a MERN stack web developer who loves creating and developing UI/UX components. I enjoy working on singly single-page websites and landing pages. Currently my focus is on the front-end while strengthening back-end development to create more useful, user friendly, and good looking apps.
+I am a MERN stack web developer who loves creating and developing UI/UX components. I enjoy working on single-page websites and landing pages. Currently my focus is on the front-end development while strengthening my back-end development to create more useful, user friendly, and good looking apps.
 
 ### Tools / Technologies:
  1. HTML
