@@ -1,9 +1,10 @@
 # Adnan Niaz
 
-## 🛠 Full-stack web developer + 🎨 UI developer
+## 🛠 Full-stack web developer + Front-end Specialist
 I am a MERN stack developer and front-end specialist who loves creating and developing UI/UX fucntional components. I enjoy working on single-page using MERN (MongoDB, Express, React & Node) stack. 
 
-## Tools / Technologies:
+## &#x1F4DA; My Tech Stack
+
 ### Front-End:
 [![HTML](https://img.shields.io/badge/HTML-555?style=for-the-badge&logo=html5&logoColor=E34F26)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/CSS-555?style=for-the-badge&logo=css3&logoColor=1572b6)](https://www.w3schools.com/css/)
