@@ -9,15 +9,8 @@
 
 ### Back-End:
 [![NODE](https://img.shields.io/badge/Node.js-555?style=flat&logo=Node.js&logoColor=339933)](https://nodejs.org/en/) [![EXPRESS](https://img.shields.io/badge/Express.js-555?flat&logo=express&logoColor=000)](https://expressjs.com/) [![MONGODB](https://img.shields.io/badge/MongoDB-555?flat&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
- 
- ### Skilled-in
-  - Github Collaboration
-  - Creating Mobile-friendly Apps/Websites/Components
-  - Errors and exceptions handling
-  - API setup and Integration
-  - Database and CRUD
-  - Basic SEO
-  - Project Deployment on Netlify and Heroku
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sanixstudio&show_icons=true&count_private-true&theme=dark)
 
 #### Places where I Learn, Code, participate and Complete Challenges:
 
