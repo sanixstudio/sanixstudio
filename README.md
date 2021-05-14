@@ -2,7 +2,7 @@
 
 ## 🛠 Full-stack web developer + Front-end Specialist
 
-### &#x1F4DA; My Tech Stack
+### &#x1F4DA; My workspace
 
 ### Front-End:
 [![HTML](https://img.shields.io/badge/HTML-555?style=flat&logo=html5&logoColor=E34F26)](https://www.w3schools.com/html/) [![CSS](https://img.shields.io/badge/CSS-555?style=flat&logo=css3&logoColor=1572b6)](https://www.w3schools.com/css/) [![JS](https://img.shields.io/badge/JavaSCript-555?flat&logo=javascript&logoColor=f7df1e)](https://www.w3schools.com/js/) [![REACT](https://img.shields.io/badge/React.js-555?flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-555?flat&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
