@@ -1,11 +1,11 @@
 [![HTML][adi]](https://www.sanistudio.online)
 
-## 🛠 Hi I'm Adnan Niaz. Full-stack web developer and front-end Specialist
+🛠 Hi I'm Adnan. Full-stack developer, Front-end enthusiast and a problem solver. I develop websites, landing pages and functional components. I bring designs to life. 
+---
 
 ### &#x1F4DA; My workspace
 
-#### Front to Back-end
-[![HTML][html5]](https://www.w3schools.com/html/) [![CSS][css])](https://www.w3schools.com/css/) [![JS](https://img.shields.io/badge/JavaSCript-222?flat&logo=javascript&logoColor=f7df1e)](https://www.w3schools.com/js/) [![REACT](https://img.shields.io/badge/React.js-222?flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
+[![HTML][html5]](https://www.w3schools.com/html/) [![CSS][css]](https://www.w3schools.com/css/) [![JS](https://img.shields.io/badge/JavaSCript-222?flat&logo=javascript&logoColor=f7df1e)](https://www.w3schools.com/js/) [![REACT](https://img.shields.io/badge/React.js-222?flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
 
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-222?flat&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 [![MATERIALIZECSS](https://img.shields.io/badge/MaterializeCSS-222?flat&logo=bootstrap&logoColor=7952B3)](https://materializecss.com/)
