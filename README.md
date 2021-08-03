@@ -1,6 +1,6 @@
 [![HTML][adi]](https://www.sanistudio.online)
 
-🛠 Hi I'm Adnan. Full-stack developer, Front-end enthusiast and a problem solver. I develop websites, landing pages and functional UI components. I bring designs to life. 
+🛠 Hi I'm Adnan Niaz a Full-stack Engineer. I bring ideas and designs to life. 
 ---
 
 ### &#x1F4DA; My workspace
