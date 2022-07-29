@@ -10,16 +10,21 @@
 [![JS](https://img.shields.io/badge/JavaScript-222?flat&logo=javascript&logoColor=f7df1e)](https://www.w3schools.com/js/) 
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-222?flat&logo=typescript&logoColor=61DAFB)](https://www.typescriptlang.org/)
 [![REACT](https://img.shields.io/badge/React.js-222?flat&logo=react)](https://reactjs.org/)
-[![NEXT JS](https://img.shields.io/badge/Next.js-222?flat&logo=next.js)](https://nextjs.org/)
+[![NEXTJS](https://img.shields.io/badge/Next.js-222?flat&logo=next.js)](https://nextjs.org/)
 
-[![MATERIAL-UI](https://img.shields.io/badge/Material-UI-3399fe?flat&logo=bootstrap&logoColor=3399fe)](https://mui.com/)
+[![MATERIALUI](https://img.shields.io/badge/Material-UI-3399fe?flat&logo=mui&logoColor=3399fe)](https://mui.com/)
+[![TAILWIINDCSS](https://img.shields.io/badge/W3CSS-0776a9?flat&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-222?flat&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
-[![MATERIALIZECSS](https://img.shields.io/badge/MaterializeCSS-222?flat&logo=bootstrap&logoColor=7952B3)](https://materializecss.com/)
-[![W3CSS](https://img.shields.io/badge/W3CSS-222?flat&logo=w3c&logoColor=7952B3)](https://www.w3schools.com/w3css/defaulT.asp)
 
-[![NODE](https://img.shields.io/badge/Node.js-222?style=flat&logo=Node.js&logoColor=339933)](https://nodejs.org/en/) [![EXPRESS](https://img.shields.io/badge/Express.js-222?flat&logo=express&logoColor=000)](https://expressjs.com/) 
+[![NODE](https://img.shields.io/badge/Node.js-222?style=flat&logo=Node.js&logoColor=339933)](https://nodejs.org/en/) 
+[![EXPRESS](https://img.shields.io/badge/Express.js-222?flat&logo=express&logoColor=000)](https://expressjs.com/) 
 
-[![MONGODB](https://img.shields.io/badge/MongoDB-222?flat&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/) [![FIREBASE](https://img.shields.io/badge/Firebase-222?flat&logo=firebase&logoColor=47A248)](https://firebase.google.com/)
+[![MONGODB](https://img.shields.io/badge/MongoDB-222?flat&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/) 
+[![FIREBASE](https://img.shields.io/badge/Firebase-222?flat&logo=firebase&logoColor=47A248)](https://firebase.google.com/)
+
+[![CYPRESS](https://img.shields.io/badge/Cypres-111?flat&logo=cypress&logoColor=fff)]([https://firebase.google.com/](https://www.cypress.io/))
+
+https://img.shields.io/badge/W3CSS-0776a9?flat&logo=cypress&logoColor=fff
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sanixstudio&show_icons=true&count_private-true&theme=dark)
 
