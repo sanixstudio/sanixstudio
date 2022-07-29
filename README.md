@@ -5,8 +5,14 @@
 
 ### &#x1F4DA; My workspace
 
-[![HTML][html5]](https://www.w3schools.com/html/) [![CSS][css]](https://www.w3schools.com/css/) [![JS](https://img.shields.io/badge/JavaSCript-222?flat&logo=javascript&logoColor=f7df1e)](https://www.w3schools.com/js/) [![REACT](https://img.shields.io/badge/React.js-222?flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
+[![HTML][html5]](https://www.w3schools.com/html/) 
+[![CSS][css]](https://www.w3schools.com/css/) 
+[![JS](https://img.shields.io/badge/JavaScript-222?flat&logo=javascript&logoColor=f7df1e)](https://www.w3schools.com/js/) 
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-222?flat&logo=typescript&logoColor=61DAFB)](https://www.typescriptlang.org/)
+[![REACT](https://img.shields.io/badge/React.js-222?flat&logo=react)](https://reactjs.org/)
+[![NEXT JS](https://img.shields.io/badge/Next.js-222?flat&logo=next.js)](https://nextjs.org/)
 
+[![MATERIAL-UI](https://img.shields.io/badge/Material-UI-3399fe?flat&logo=bootstrap&logoColor=3399fe)](https://mui.com/)
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-222?flat&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 [![MATERIALIZECSS](https://img.shields.io/badge/MaterializeCSS-222?flat&logo=bootstrap&logoColor=7952B3)](https://materializecss.com/)
 [![W3CSS](https://img.shields.io/badge/W3CSS-222?flat&logo=w3c&logoColor=7952B3)](https://www.w3schools.com/w3css/defaulT.asp)
