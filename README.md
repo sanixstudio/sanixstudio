@@ -22,7 +22,7 @@
 [![MONGODB](https://img.shields.io/badge/MongoDB-222?flat&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/) 
 [![FIREBASE](https://img.shields.io/badge/Firebase-222?flat&logo=firebase&logoColor=47A248)](https://firebase.google.com/)
 
-[![CYPRESS](https://img.shields.io/badge/Cypres-111?flat&logo=cypress&logoColor=fff)]([https://firebase.google.com/](https://www.cypress.io/))
+[![CYPRESS](https://img.shields.io/badge/Cypres-111?flat&logo=cypress&logoColor=fff)](https://www.cypress.io/)
 
 https://img.shields.io/badge/W3CSS-0776a9?flat&logo=cypress&logoColor=fff
 
