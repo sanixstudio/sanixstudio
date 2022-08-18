@@ -24,8 +24,6 @@
 
 [![CYPRESS](https://img.shields.io/badge/Cypres-111?flat&logo=cypress&logoColor=fff)](https://www.cypress.io/)
 
-https://img.shields.io/badge/W3CSS-0776a9?flat&logo=cypress&logoColor=fff
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=sanixstudio&show_icons=true&count_private-true&theme=dark)
 
 #### Places where I Learn, Code, participate and Complete Challenges:
