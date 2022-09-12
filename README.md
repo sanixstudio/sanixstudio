@@ -23,6 +23,7 @@
 [![FIREBASE](https://img.shields.io/badge/Firebase-222?flat&logo=firebase&logoColor=47A248)](https://firebase.google.com/)
 
 [![CYPRESS](https://img.shields.io/badge/Cypres-111?flat&logo=cypress&logoColor=fff)](https://www.cypress.io/)
+[![JEST](https://img.shields.io/badge/Jest-111?flat&logo=Jest&logoColor=15C113)](https://www.https://jestjs.io/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sanixstudio&show_icons=true&count_private-true&theme=dark)
 
