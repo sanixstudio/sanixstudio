@@ -1,8 +1,11 @@
 [![HTML][adi]](https://www.sanistudio.online)
 
-🛠 Hi I'm Adnan Niaz a Frontend Engineer. I bring ideas and designs to life. 
+🛠 Hi I'm Adnan Niaz, a Software Engineer (Frontend) 
 ---
-
+I am a self-taught software engineer with over 5 years of experience primarily focused on front-end development. My passion lies in problem-solving and leveraging cutting-edge technologies to create innovative solutions.
+***
+I have a proven track record of helping businesses and startups expand their online presence and improve user experiences by harnessing the power of JavaScript, TypeScript, Next.js, and Node.js. With a comprehensive skill set that includes expertise in Redux, Material-UI, HTML, CSS, Express.js, MongoDB, Firebase, and Supabase, I have contributed to the development of responsive UI components and implemented rigorous testing practices to ensure reliability and consistency. Additionally, I have successfully collaborated across functions to establish and enhance SEO features.
+***
 ### &#x1F4DA; My workspace
 
 [![HTML][html5]](https://www.w3schools.com/html/) 
@@ -24,10 +27,6 @@
 
 [![CYPRESS](https://img.shields.io/badge/Cypres-111?flat&logo=cypress&logoColor=fff)](https://www.cypress.io/)
 [![JEST](https://img.shields.io/badge/Jest-111?flat&logo=Jest&logoColor=15C113)](https://www.https://jestjs.io/)
-
-#### Places where I Learn, Code, participate and Complete Challenges:
-
-[![REPLIT](https://img.shields.io/badge/Replit-222?style=flat&logo=repl.it&logoColor=fff)](https://www.replit.com/) [![SOLOLEARN](https://img.shields.io/badge/Sololearn-222?style=flat&logo=SoloLearn&logoColor=fff)](https://www.w3schools.com/html/) [![HackerRank](https://img.shields.io/badge/HackerRank-222?style=flat&logo=HackerRank&logoColor=fff)](https://www.hackerrank.com/)
 
 ### Get in Touch
 [Website](https://adi-work.vercel.app/) 💻 |
