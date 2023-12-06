@@ -30,10 +30,10 @@
 [![REPLIT](https://img.shields.io/badge/Replit-222?style=flat&logo=repl.it&logoColor=fff)](https://www.replit.com/) [![SOLOLEARN](https://img.shields.io/badge/Sololearn-222?style=flat&logo=SoloLearn&logoColor=fff)](https://www.w3schools.com/html/) [![HackerRank](https://img.shields.io/badge/HackerRank-222?style=flat&logo=HackerRank&logoColor=fff)](https://www.hackerrank.com/)
 
 ### Get in Touch
-[Website](https://www.sanistudio.online) 💻 |
-[Resume](https://drive.google.com/open?id=1Kd3K2eCeDBLFDuSfHqVtPW3C3ACL7ueC) 📄 |
-[Email](mailto:adnanniaz77@yahoo.com) ✉ |
-[Linkedin](https://www.linkedin.com/in/adnanniaz77/) 🔗
+[Website](https://adi-work.vercel.app/) 💻 |
+[Resume](https://drive.google.com/file/d/1QNJQubveZW6ogcQng7rEiaVhD-illBBx/view?usp=sharing) 📄 |
+[Email](mailto:sanixstudio@gmail.com) ✉ |
+[Linkedin](https://linkedin.com/in/sanixstudio) 🔗
 
 [css]: https://img.shields.io/badge/CSS-222?style=flat&logo=css3&logoColor=1572b6
 [html5]: https://img.shields.io/badge/HTML-222?style=flat&logo=html5&logoColor=E34F26
