@@ -2,7 +2,7 @@
 
 🛠 Hi I'm Adnan Niaz, a Software Engineer (Frontend) 
 ---
-I am a self-taught software engineer with over 5 years of experience primarily focused on front-end development. My passion lies in problem-solving and leveraging cutting-edge technologies to create innovative solutions.
+I am a self-taught software engineer with over 4 years of experience primarily focused on front-end development. My passion lies in problem-solving and leveraging cutting-edge technologies to create innovative solutions.
 ***
 I have a proven track record of helping businesses and startups expand their online presence and improve user experiences by harnessing the power of JavaScript, TypeScript, Next.js, and Node.js. With a comprehensive skill set that includes expertise in Redux, Material-UI, HTML, CSS, Express.js, MongoDB, Firebase, and Supabase, I have contributed to the development of responsive UI components and implemented rigorous testing practices to ensure reliability and consistency. Additionally, I have successfully collaborated across functions to establish and enhance SEO features.
 ***
