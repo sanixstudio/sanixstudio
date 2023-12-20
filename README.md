@@ -42,4 +42,6 @@ I am a self-taught software engineer with over 4 years of experience primarily f
 
 ### Badges
 
-<a href="https://github.com/sanixstudio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanixstudio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sanixstudio" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanixstudio&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0C1017&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
