@@ -6,6 +6,7 @@ I’m a self-taught software engineer with over 5 years of experience, focusing 
 
 * 🌍  Based in San Francisco, Bay Area
 * ✉️  Reach me at [sanixstudio@gmail.com](mailto:sanixstudio@gmail.com)
+* 🌐  Check out my [Portfolio](https://work-adi.vercel.app/)
 * 🤝  Available to help startups build their first MVP or step in as a founding engineer to bring your vision to life
 
 ### Skills
