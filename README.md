@@ -1,6 +1,6 @@
 ## Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Adnan Niaz
 
-### Full Stack Engineer | Frontend Specialist
+### Full Stack Engineer | Frontend Specialist | Next js Expert
 
 I’m a self-taught software engineer with over 5 years of experience, focusing primarily on front-end development. I’m passionate about solving problems and using the latest technologies to create innovative, user-friendly solutions.
 
