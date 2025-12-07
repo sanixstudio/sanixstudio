@@ -2,7 +2,7 @@
 
 ### Full Stack Engineer | Frontend Specialist | Next js Expert
 
-I’m a self-taught software engineer with over 5 years of experience, focusing primarily on front-end development. I’m passionate about solving problems and using the latest technologies to create innovative, user-friendly solutions.
+I’m a self-taught software engineer with over 6 years of experience, focusing primarily on front-end development. I’m passionate about solving problems and using the latest technologies to create innovative, user-friendly solutions.
 
 * 🌍  Based in San Francisco, Bay Area
 * ✉️  Reach me at [sanixstudio@gmail.com](mailto:sanixstudio@gmail.com)
